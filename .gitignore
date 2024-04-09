@@ -1,6 +1,3 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCorm4ogTh2n1vrwe5jJdpNDwuvUgm4o2mqB9r3QBcrgPqRbP9C1d2ywXa5pOvAKZlykryt0jaR3ARh7HZAM3W845aiLb3opq+yF+JQhv+XBsjGygCUBHllQY1uAaIYfSDYDerqzPfgLi3XH3OLSYJG/hn1xt+vjzJNX+Vlr6gQxLmPImeogT/PKE9S6alNP+qml+FPz37B0yKX0b2feUCsGSQZLN8KN+gA8Zy35QkrPSygCf6D7JqkcTvWKoy6C48qkcNJ/l6sSggiNEj4J8jPKpFsjFO7+EQUkDslmQkuRvf7OwLh0HWkLUyu0xX4i9NC2QpHWdkoN5lFjDz4lqkfHqnBHaoFGdH1yQBFqySf+vwszBmiS9XeVAY1iQgoYAPndMW65/stDfmCVPzvGZxRJuQIY4M7fiQuRIoemgPocul23XM9V3po8g7OZw3mv7VydVETf1kxDFWe0Wz3/p6+0MQsZpDpuwuf1U/A3RK+RfnTuDf/1vBQXPwBJD4MEc0= evgen@ununtu22# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -173,4 +170,3 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/python
